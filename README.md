@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on @Anturnia
+🔭 I’m currently working on @Anturnia 
 📫 You can reach me on Discord: @frinshhd
 <!--
 **FrinshHD/FrinshHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

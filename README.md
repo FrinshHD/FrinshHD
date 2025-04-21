@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [LogicLumini Studios](https://logic.codearray.dev), [Simplica](https://shorl.me/simplica) and [Anturnia.net](https://www.anturnia.net)
+- 🔭 I’m currently working on [CodeArray](https://codearray.dev), [Simplica](https://shorl.me/simplica) and [Anturnia.net](https://www.anturnia.net)
 - 📫 You can reach me on Discord: @frinshhd
 
 
